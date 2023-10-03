@@ -1,11 +1,3 @@
-# Artificial-Intelligence-Pacman-Project
-Arizona State University
-
-CSE 571 Artificial Intelligence
-
-Fall 2017
-
-Grade A-
 
 In this project, several techniques of Artificial Intelligence such as Searching, Adversarial Behaviour, Deep Reinforcement Learning, Neural Network etc are implemented to help the pacman agent to maximize its expected utility.
 
